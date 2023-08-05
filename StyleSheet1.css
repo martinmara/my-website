@@ -7,8 +7,7 @@
 header{
     background-image: url(lap.jfif);
     height: 100vh;
-    backround-size: cover;
-    backround-position: center;
+    
 }
 
 ul{
@@ -35,7 +34,7 @@ ul li a:hover{
 }
 
 ul li.active a{
-    backround-color: #fff;
+    background-color: #fff;
     color: #000000;
 }
 .logo img{
